@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Rodrigo Terra ✌️
+# Hi! I'm Rodrigo✌️
 
 ## 🧷About Me
 
