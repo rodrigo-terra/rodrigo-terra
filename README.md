@@ -12,10 +12,10 @@
 
 ## 📊GitHub Stats
 <a href="https://github.com/rodrigo-terra/github-readme-stats">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-terra&show_icons=true&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-terra&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-terra&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-terra&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <br>
