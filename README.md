@@ -8,25 +8,39 @@
 
 🎓🚀 An enthusiast in programming, I recently started a Computer Science course at Faculdade Gran Cursos. I am looking to explore different programming languages and modern frameworks, determined to improve my skills in new technologies and software development, in order to contribute significantly to the community.
 
+<br>
+
 ## 📊GitHub Stats
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-terra&show_icons=true&theme=dark)
+<a href="https://github.com/rodrigo-terra/github-readme-stats">
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-terra&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo-terra&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+
+<br>
+
 
 ## ⚙️Languages and Tools
-<div style="display: inline_block"><br/>
-<img align= "center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
-<img align= "center" alt="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-<img align= "center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-<img align= "center" alt="C++" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
-<img align= "center" alt="Visual Studio Code" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>
-<img align= "center" alt="GIT" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
-</div><br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Js" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-terra&layout=compact)
+<br>
 
 ## 🔗Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo93terra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo93terra@gmail.com)
-[![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ro_terra93)
+
+<a href="https://linkedin.com/in/rodrigo93terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar-2a1759226" height="40" width="40" /></a>
+<a href="https://instagram.com/ro_terra93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desicomedyvines" height="40" width="40" /></a>
+<a href="mailto:rodrigo93terra@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png" height="40" width="40"></a>
+<a href="https://discord.gg/rodrigo93terra" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png" height="40" width="40"></a>
+
+<br>
 
 ### Let's do this!👊
 </div>
